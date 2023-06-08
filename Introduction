@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Optional: Link to your CSS file for styling -->
+</head>
+<body>
+    <header>
+        <h1>Aryan Raj</h1>
+        <h2>1st Year CSE BTech Student</h2>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            Hi, I'm Aryan, a 1st year CSE BTech student passionate about programming and technology. I am enthusiastic about learning new concepts and applying them to solve real-world problems.
+        </p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li>
+                <h3>Project 1</h3>
+                <p>Participated in Hackthaon (krypthon)</p>
+            </li>
+            
+            <!-- Add more project items as needed -->
+        </ul>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>C</li>
+            <li>Python</li>
+            <li>C++</li>
+            <!-- Add more skills as needed -->
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: aryan.raj2022@vitstudent.ac.in</p>
+        <p>Phone: 914229976</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Aryan Raj</p>
+    </footer>
+</body>
+</html>
